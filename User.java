@@ -1,4 +1,4 @@
-public class Main {
+ class Main {
   int x = 5;
 
   int m = 10;
@@ -11,5 +11,6 @@ public class Main {
   public static void main(String[] args) {
     Main myObj = new Main();
     System.out.println(myObj.x);
+    System.out.println(myObj.x+myObj.y+myObj.z);
   }
 }
