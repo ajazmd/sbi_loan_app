@@ -11,6 +11,7 @@
   public static void main(String[] args) {
     Main myObj = new Main();
     System.out.println(myObj.x);
+   System.out.println("new line added");
     System.out.println(myObj.x+myObj.y+myObj.z);
   }
 }
