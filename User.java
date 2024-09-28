@@ -4,6 +4,8 @@ public class Main {
   int m = 10;
 
   int y = 5 ;
+ 
+  int z = x+y+m;
 
 
   public static void main(String[] args) {
